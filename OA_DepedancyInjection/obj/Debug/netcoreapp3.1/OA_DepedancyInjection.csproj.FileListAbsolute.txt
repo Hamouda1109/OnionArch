@@ -1,0 +1,76 @@
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.AssemblyReference.cache
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfoInputs.cache
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfo.cs
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.deps.json
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.dll
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.dll
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.dll
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.pdb
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.pdb
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CopyComplete
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+C:\Users\Tayba\source\repos\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.deps.json
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.dll
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.dll
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.pdb
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.pdb
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.AssemblyReference.cache
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfoInputs.cache
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfo.cs
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CoreCompileInputs.cache
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CopyComplete
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+E:\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.deps.json
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.dll
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.dll
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.pdb
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.pdb
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.AssemblyReference.cache
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfoInputs.cache
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfo.cs
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CoreCompileInputs.cache
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CopyComplete
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+E:\Work\ASP\New folder\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.deps.json
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.dll
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.dll
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.dll
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Service.pdb
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\bin\Debug\netcoreapp3.1\OA_Core.pdb
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.AssemblyReference.cache
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfoInputs.cache
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.AssemblyInfo.cs
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CoreCompileInputs.cache
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.csproj.CopyComplete
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+D:\Work\Works\Work\ASP\OA\OA_DepedancyInjection\obj\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb

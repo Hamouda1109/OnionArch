@@ -1,0 +1,38 @@
+C:\Users\Tayba\source\repos\OA\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Tayba\source\repos\OA\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Tayba\source\repos\OA\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Tayba\source\repos\OA\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayba\source\repos\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Tayba\source\repos\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Tayba\source\repos\OA\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tayba\source\repos\OA\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Tayba\source\repos\OA\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Tayba\source\repos\OA\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\Work\ASP\OA\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\Work\ASP\OA\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\OA\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\New folder\OA\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\Work\ASP\New folder\OA\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\New folder\OA\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\New folder\OA\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\New folder\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\Work\ASP\New folder\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\Work\ASP\New folder\OA\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\Work\ASP\New folder\OA\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\New folder\OA\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\Works\Work\ASP\OA\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Work\Works\Work\ASP\OA\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Work\Works\Work\ASP\OA\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\Works\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Work\Works\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Works\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Work\Works\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Work\Works\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Work\Works\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Work\Works\Work\ASP\OA\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

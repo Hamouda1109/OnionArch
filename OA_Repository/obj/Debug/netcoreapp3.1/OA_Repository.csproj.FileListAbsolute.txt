@@ -1,0 +1,61 @@
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.deps.json
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.json
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.dev.json
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.dll
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.AssemblyReference.cache
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfoInputs.cache
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfo.cs
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CopyComplete
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\Users\Tayba\source\repos\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.genruntimeconfig.cache
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Core.dll
+C:\Users\Tayba\source\repos\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Core.pdb
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.deps.json
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.json
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.dev.json
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Core.dll
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Core.pdb
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.AssemblyReference.cache
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfoInputs.cache
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfo.cs
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CoreCompileInputs.cache
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CopyComplete
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.genruntimeconfig.cache
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.deps.json
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.json
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.dev.json
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Core.dll
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\New folder\OA\OA_Repository\bin\Debug\netcoreapp3.1\OA_Core.pdb
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.AssemblyReference.cache
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfoInputs.cache
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfo.cs
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CoreCompileInputs.cache
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CopyComplete
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\New folder\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.genruntimeconfig.cache
+D:\Work\Works\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.AssemblyReference.cache
+D:\Work\Works\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Works\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfoInputs.cache
+D:\Work\Works\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfo.cs
+D:\Work\Works\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CoreCompileInputs.cache
+D:\Work\Works\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
+D:\Work\Works\Work\ASP\OA\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb

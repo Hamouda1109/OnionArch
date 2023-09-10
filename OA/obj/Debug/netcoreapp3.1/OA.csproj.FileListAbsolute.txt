@@ -1,0 +1,314 @@
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfoInputs.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfo.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.CoreCompileInputs.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorAssemblyInfo.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorAssemblyInfo.cs
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.exe
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.deps.json
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.runtimeconfig.json
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.runtimeconfig.dev.json
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.Views.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA.Views.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.Web.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.WebApi.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_Core.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_Repository.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_Service.dll
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_Service.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Tayba\source\repos\OA\OA\bin\Debug\netcoreapp3.1\OA_Core.pdb
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.AssemblyReference.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\staticwebassets\OA.StaticWebAssets.Manifest.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.TagHelpers.input.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.TagHelpers.output.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorCoreGenerate.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorTargetAssemblyInfo.cache
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorTargetAssemblyInfo.cs
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.Views.pdb
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.CopyComplete
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.dll
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.pdb
+C:\Users\Tayba\source\repos\OA\OA\obj\Debug\netcoreapp3.1\OA.genruntimeconfig.cache
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.exe
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.deps.json
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.runtimeconfig.json
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.runtimeconfig.dev.json
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.Views.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA.Views.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.Web.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.Web.Mvc.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.WebApi.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_Core.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_Service.dll
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_Service.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\OA\OA\bin\Debug\netcoreapp3.1\OA_Core.pdb
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.AssemblyReference.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfoInputs.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfo.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.CoreCompileInputs.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorAssemblyInfo.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorAssemblyInfo.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\staticwebassets\OA.StaticWebAssets.Manifest.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.TagHelpers.input.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.TagHelpers.output.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorCoreGenerate.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorTargetAssemblyInfo.cache
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorTargetAssemblyInfo.cs
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.Views.pdb
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.CopyComplete
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.dll
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.pdb
+E:\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.genruntimeconfig.cache
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA.exe
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA.deps.json
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA.runtimeconfig.json
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA.runtimeconfig.dev.json
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA.Views.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.Web.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.Web.Mvc.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.WebApi.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_Core.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_Service.dll
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_DepedancyInjection.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_Service.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Work\ASP\New folder\OA\OA\bin\Debug\netcoreapp3.1\OA_Core.pdb
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.AssemblyReference.cache
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfoInputs.cache
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfo.cs
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.CoreCompileInputs.cache
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\staticwebassets\OA.StaticWebAssets.Manifest.cache
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.RazorTargetAssemblyInfo.cache
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.CopyComplete
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.dll
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.pdb
+E:\Work\ASP\New folder\OA\OA\obj\Debug\netcoreapp3.1\OA.genruntimeconfig.cache
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.AssemblyReference.cache
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfoInputs.cache
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.AssemblyInfo.cs
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.csproj.CoreCompileInputs.cache
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.dll
+D:\Work\Works\Work\ASP\OA\OA\obj\Debug\netcoreapp3.1\OA.pdb
